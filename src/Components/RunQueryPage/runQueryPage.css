@@ -1,0 +1,27 @@
+.spinner__Container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dashboard__container{
+    width: 97.5%;
+    height: 88%;
+    background-color: #fff;
+    margin: 1rem;
+}
+
+.dashboard__container-top{
+    border-bottom: 0.025rem solid #e6e6e6;
+}
+
+.dashboard__container-middle{
+    position: relative;
+}
+
+.dashboard__container-collapse{
+    position: absolute;
+    top: -1.2rem;
+}

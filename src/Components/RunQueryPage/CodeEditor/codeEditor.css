@@ -1,0 +1,27 @@
+.codeEditor__container{
+    height: 100%;
+    width: 100%;
+    border-right: 0.025rem solid #e6e6e6;
+}
+
+.codeEditor__container-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+    padding: 0.5rem 2rem;
+    border-bottom: 0.025rem solid #e6e6e6;
+}
+
+.cm-s-neat{
+    height: 100%;
+    max-height: 68vh;
+}
+.cm-s-material{
+    height: 100%;
+    max-height: 68vh;
+}
+
+.codeEditor{
+    width: 98%;
+} 

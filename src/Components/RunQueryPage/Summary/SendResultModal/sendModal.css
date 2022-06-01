@@ -1,0 +1,20 @@
+.sendModal__footer{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.sendModal__top{
+  overflow-y: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.sendModal__top-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;    
+}

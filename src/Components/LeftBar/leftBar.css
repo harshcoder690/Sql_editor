@@ -1,0 +1,19 @@
+.ant-layout-sider-trigger{
+    background-color: #1a21d3!important;
+}
+
+.ant-menu-item:hover{
+    color: #62e2fc!important;
+}
+
+.logo__box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 1.5rem 3.5rem 1.5rem;
+    background-color: #1a21d3;
+}
+
+.logo__image{
+    height: 2rem;
+}

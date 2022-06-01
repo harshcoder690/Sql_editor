@@ -1,0 +1,45 @@
+.bottomPanel__container{
+    height: 100%;
+    width: 100%;
+}
+
+.bottomPanel__container-menu{
+     width: 100%;
+}
+
+.bottomPanel__container-top{
+    width: 100%;
+}
+
+.dashboard__container-bottom{
+    padding: 0.5rem;
+}
+
+.bottomPanel__menu-content{
+    overflow-y: auto;
+    height: 7rem;
+}
+
+.bottomPanel__menu-schema{
+    margin: 0 1rem;
+    padding: 0 1rem;
+    overflow-y: auto;
+    height: 100%;
+    /* max-height: 7rem; */
+    border-left: 0.025rem solid #e6e6e6;
+}
+
+.bottomPanel__menu-item{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.25rem 0.25rem;
+    color: #1a21d3;
+    border-bottom: 0.025rem solid #e6e6e6;
+}
+
+.bottomPanel__menu-table{
+     padding: 0.25rem 0.25rem;
+    overflow-y: auto;
+}
